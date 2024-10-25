@@ -1,4 +1,4 @@
-#Professional Statement
+# Professional Statement
 
 In the field of cybersecurity, my passion lies in safeguarding digital landscapes and protecting sensitive information from ever-evolving threats. With over eight years of experience in systems and network administration, I am driven by the constant challenge of staying one step ahead to ensure individuals' privacy and organizations' data security.
 
