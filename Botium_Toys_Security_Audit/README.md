@@ -1,1 +1,1 @@
-This security audit was performed as a part of course activity for Google Cybersecurity course.
+This security audit was conducted as a part of course activity for the Google Cybersecurity course.
