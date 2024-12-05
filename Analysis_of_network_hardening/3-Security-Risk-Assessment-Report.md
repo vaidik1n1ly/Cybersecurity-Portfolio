@@ -27,4 +27,4 @@ they can be used maliciously. Lockout policies prevent brute force attacks by te
 Firewalls serve as a critical barrier between internal systems and external threats, but outdated configurations can leave vulnerabilities exposed. 
 Regular updates ensure that the firewall blocks known malicious IPs and adapts to organizational changes, such as new servers or applications. 
 For example, removing redundant or conflicting rules improves firewall efficiency and reduces the likelihood of security gaps. 
-This proactive measure supports compliance with regulatory standards and helps address evolving threats. 
+This proactive measure supports compliance with regulatory standards and helps address evolving threats.
