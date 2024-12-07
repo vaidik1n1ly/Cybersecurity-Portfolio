@@ -6,7 +6,7 @@ The research team at my organization has tasked me with checking and updating th
 ### Check file and directory details
 I used following Linux commands to determine existing permissions for the projects directory in the file system.
 
-![image](img/image.jpg)
+![ls -la](img/Screenshot_6-12-2024_202247.jpeg)
 
 The first line of the screenshot is the command I entered and following lines are output by the system. The code ls -la displays all the contents of the projects directory. I used ls command with -la argument, where l displays detailed listing of file contents and a displays hidden files. The output shows that there is one hidden file named .project_x.txt, one directory drafts and four other project files. The 10-character string on the first part of list is the permissions string displaying permissions set on each file or directory.
 
@@ -25,7 +25,7 @@ The organization determined that other shouldn't have write access to any of the
 
 The following code demonstrates how I used Linux commands to do this:
 
-![image](img/image.jpg)
+![chmod o-w](img/Screenshot_6-12-2024_204042.jpeg)
 
 The first two lines of the screenshot display the commands I entered, and the other lines display the output of the second command. The chmod command changes the permissions on files and directories. The first argument indicates what permissions should be changed, and the second argument specifies the file or directory. In this example, I removed write permissions from other for the project_k.txt file. After this, I used ls -la to review the updates I made.
 
@@ -34,7 +34,7 @@ The research team at my organization recently archived project_x.txt. They do no
 
 The following code demonstrates how I used Linux commands to change the permissions:
 
-![image](img/image.jpg)
+![chmod u=r g=r](img/Screenshot_6-12-2024_204354.jpeg)
 
 The first two lines of the screenshot display the commands I entered, and the other lines display the output of the second command. I know .project_x.txt is a hidden file because it starts with a period (.). In this example, I set read permissions for both the user and group with u=r,g=r. 
 
@@ -43,7 +43,7 @@ My organization only wants the researcher2 user to have access to the drafts dir
 
 The following code demonstrates how I used Linux commands to change the permissions:
 
-![image](img/image.jpg)
+![chmod g-x](img/Screenshot_6-12-2024_204734.jpeg)
 
 The output here displays the permission listing for several files and directories. Line 1 indicates the current directory (projects), and line 2 indicates the parent directory (home). Line 3 indicates a regular file titled .project_x.txt. Line 4 is the directory (drafts) with restricted permissions. Here you can see that only researcher2 has execute permissions.  It was previously determined that the group had execute permissions, so I used the chmod command to remove them.
 
