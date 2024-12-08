@@ -13,7 +13,7 @@ All after hours login attempts that failed need to be investigated.
 The following code demonstrates how I created a SQL query to filter for failed login attempts that occurred 
 after business hours.
 
-![Retrieve after hours failed login attempts](img/image1.png)
+![Retrieve after hours failed login attempts](img/Screenshot_8-12-2024_13127.jpeg)
 
 The first part of the screenshot is my query which filters all failed login attempts that occurred after 18:00. 
 I started by selecting all data from the log_in_attempts table. Then, I used a WHERE clause with an AND operator 
@@ -27,7 +27,7 @@ which occurred on this day and the day before.
 
 The following screenshot shows how I wrote a SQL query to filter the login attempts that occurred on specific dates.
 
-![Retrieve login attempts on specific dates](img/image1.png)
+![Retrieve login attempts on specific dates](img/Screenshot_8-12-2024_13634.jpeg)
 
 This query returns all login attempts that occurred on 2022-05-09 or 2022-05-08. First, I started by selecting 
 all data from the log_in_attempts table. Then, I used a WHERE clause with an OR operator to filter my results. 
@@ -41,7 +41,7 @@ that occurred outside of Mexico. These login attempts should be investigated.
 
 The following code demonstrates how I created a SQL query to filter for login attempts that occurred outside of Mexico.
 
-![Retrieve login attempts outside of Mexico](img/image1.png)
+![Retrieve login attempts outside of Mexico](img/Screenshot_8-12-2024_13955.jpeg)
 
 This query returns all login attempts that occurred in countries other than Mexico. First, I started by selecting 
 all data from the log_in_attempts table. Then, I used a WHERE clause with NOT filter. I used LIKE with MEX% as the 
@@ -56,7 +56,7 @@ information on which employee machines to update.
 The following code demonstrates how I created a SQL query to filter for employee machines from employees in the 
 Marketing department in the East building.
 
-![Retrieve employees in Marketing](img/image1.png)
+![Retrieve employees in Marketing](img/Screenshot_8-12-2024_131228.jpeg)
 
 This query returns all employees in the Marketing department in the East building. First, I started by selecting 
 all data from the employees table. Then, I used a WHERE clause with AND filter. I used LIKE with East% as the pattern 
@@ -72,7 +72,7 @@ update is needed, I have to get information on employees only from these two dep
 The following screenshot shows how I created a SQL query to filter for employee machines from employees in the 
 Finance or Sales departments.
 
-![Retrieve employees in Finance or Sales](img/image1.png)
+![Retrieve employees in Finance or Sales](img/Screenshot_8-12-2024_13153.jpeg)
 
 This query returns all employees in the Finance and Sales departments. First, I started by selecting all data 
 from the employees table. 
@@ -89,7 +89,7 @@ To make the update, I first have to get information on these employees.
 The following screenshot shows how I created a SQL query to filter for employee machines from employees not in the  
 Information Technology department.
 
-![Retrieve all employees not in IT](img/image1.png)
+![Retrieve all employees not in IT](img/Screenshot_8-12-2024_131834.jpeg)
 
 The query returns all employees not in the Information Technology department. First, I started by selecting 
 all data from the employees table. Then, I used a WHERE clause with NOT to filter for employees not in this 
