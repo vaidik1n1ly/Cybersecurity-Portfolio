@@ -1,4 +1,4 @@
-# Scenario
+# 1. Scenario
 
 You’re the first cybersecurity professional hired by a growing business.
 
@@ -12,16 +12,16 @@ Then, you will spot issues with the access controls that were exploited by the u
 Finally, you will recommend mitigations that can improve the business' access controls and reduce the likelihood that this incident reoccurs.
 
 
-# Accounting Exercise
+# 2. Accounting Exercise
 
-## Event Log
+## 2.1 Event Log
 ![Event Log](event-log.jpeg)
 
-## Employee Directory
+## 2.2 Employee Directory
 ![Employee Directory](employee-directory.jpeg)
 
 
-# Access Control Worksheet
+# 3. Access Control Worksheet
 
 <table class="c13">
     <thead>
