@@ -27,3 +27,5 @@ Finally, you'll justify why you think your recommendations will make data handli
 To start your analysis, review the following incident summary provided by your supervisor:
 
 > *A customer success representative received access to a folder of internal documents from a manager. It contained files associated with a new product offering, including customer analytics and marketing materials. The manager forgot to unshare the folder. Later, the representative copied a link to the marketing materials to share with a business partner during a sales call. Instead, the representative shared a link to the entire folder. During the sales call, the business partner received the link to internal documents and posted it to their social media page.*
+
+Use the **NIST SP 800-53: AC-6** resource to determine two control enhancements that might have prevented the data leak. List the two improvements in the Recommendation(s) row of the worksheet.
