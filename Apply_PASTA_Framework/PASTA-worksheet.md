@@ -43,7 +43,7 @@
         <p>III. Decompose application</p>
     </th>
     <td>
-        <img src="data-flow-diagram.jpeg" alt="Data flow diagram">
+        <img src="data-flow-diagram.jpeg" alt="Data flow diagram"><br>
         <a href="data-flow-diagram.jpeg">Data flow diagram</a>
     </td>
 </tr>
@@ -76,8 +76,8 @@
         <p>VI. Attack modeling</p>
     </th>
     <td>
-        <img src="attack-tree-diagram.jpeg" alt="Attack tree diagram">
-        <a href="attack-tree-diagram.jpeg">Attack tree diagram</a>
+        <img src="attack-tree-diagram.jpeg" alt="Attack tree diagram"><br>
+        <a href="attack-tree-diagram.jpeg"> Attack tree diagram</a>
     </td>
 </tr>
 <tr>
