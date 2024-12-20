@@ -77,7 +77,7 @@
     </th>
     <td>
         <img src="attack-tree-diagram.jpeg" alt="Attack tree diagram"><br>
-        <a href="attack-tree-diagram.jpeg"> Attack tree diagram</a>
+        <a href="attack-tree-diagram.jpeg">Attack tree diagram</a>
     </td>
 </tr>
 <tr>
@@ -85,9 +85,13 @@
         <p>VII. Risk analysis and impact</p>
     </th>
     <td>
-        <p>List 4 security controls that can reduce risk.
-        SHA-256, incident response procedures, password policy, principle of least privilege
-        </p>
+        <p>List 4 security controls that can reduce risk.</p>
+        <ul>
+            <li>SHA-256</li>
+            <li>incident response procedures</li>
+            <li>password policy</li>
+            <li>principle of least privilege</li>
+        </ul>
     </td>
 </tr>
 </table>
