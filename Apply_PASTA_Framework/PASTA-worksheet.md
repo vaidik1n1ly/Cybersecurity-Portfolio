@@ -30,9 +30,10 @@
     <td>
         <p>List of technologies used by the application:</p>
         <ul>
-            <li>Users can create member profiles internally or by connecting external accounts.</li>
-            <li>The app must process financial transactions.</li>
-            <li>The app should be in compliance with PCI-DSS.</li>
+            <li>Application programming interface (API)</li>
+            <li>Public key infrastructure (PKI)</li>
+            <li>SHA-256</li>
+            <li>SQL</li>
         </ul>
         <p>APIs facilitate the exchange of data between customers, partners, and employees, so they should be prioritized. They handle a lot of sensitive data while they connect various users and systems together. However, details such as which APIs are being used should be considered before prioritizing one technology over another. So, they can be more prone to security vulnerabilities because there’s a larger attack surface.</p>
     </td>
