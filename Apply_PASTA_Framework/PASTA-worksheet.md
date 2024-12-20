@@ -4,10 +4,10 @@
 <table>
 <tr>
     <th>
-        <span>Stages</span>
+        <h2>Stages</h2>
     </th>
     <th>
-        <span>Sneaker company</span>
+        <h2>Sneaker company</h2>
     </th>
 </tr>
 <tr>
