@@ -1,5 +1,5 @@
 ![Journal](journal.jpeg)
-<img src="journal.jpeg" alt="journal" style="height:50; width:50;">
+<img src="journal.jpeg" alt="journal" height=50 width=50>
 
 # Incident Handler's Journal
 <table>
