@@ -26,15 +26,15 @@
         <td>
             <p>Capture the 5 W's of an incident.</p>
             <ul>
-                <li>Who caused the incident?</li>
+                <li><strong>Who caused the incident?</strong></li>
                 <ul><li>An organized group of unethical hackers</li></ul>
-                <li>What happened?</li>
+                <li><strong>What happened?</strong></li>
                 <ul><li>A ransomware security incident using phishing attack</li></ul>
-                <li>When did the incident occur?</li>
+                <li><strong>When did the incident occur?</strong></li>
                 <ul><li>Tuesday at 9:00 a.m.</li></ul>
-                <li>Where did the incident occur?</li>
+                <li><strong>Where did the incident occur?</strong></li>
                 <ul><li>At a U.S. health care company</li></ul>
-                <li>Why did the incident happen?</li>
+                <li><strong>Why did the incident happen?</strong></li>
                 <ul><li>The security incident happened because an organized group of unethical hackers were able to access the health care company's systems using a phishing attack. After gaining access, the attackers launched their ransomware on the company's computers which encrypted critical files. The attackers' motivation appears to be financial as a ransom note was displayed on computers demanding large sum of money in exchange for the decryption key.</li></ul>
             </ul>
         </td>
