@@ -14,11 +14,11 @@
     </tr>
     <tr>
         <td>Description</td>
-        <td>the description</td>
+        <td>Incident log of the ransomware attack on a health care clinic</td>
     </tr>
     <tr>
         <td>Tool(s) used</td>
-        <td>tools list</td>
+        <td>None</td>
     </tr>
     <tr>
         <td>The 5 W's</td>
@@ -26,7 +26,9 @@
             <p>Capture the 5 W's of an incident.</p>
             <ul>
                 <li>Who caused the incident?</li>
+                <ul><li>An organized group of ethical hackers.</li></ul>
                 <li>What happened?</li>
+                <ul><li>A ransomware attack</li></ul>
                 <li>When did the incident occur?</li>
                 <li>Where did the incident occur?</li>
                 <li>Why did the incident happen?</li>
