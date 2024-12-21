@@ -25,11 +25,11 @@
         <td>
             <p>Capture the 5 W's of an incident.</p>
             <ul>
-                <li>Who</li>
-                <li>Who</li>
-                <li>Who</li>
-                <li>Who</li>
-                <li>Who</li>
+                <li>Who caused the incident?</li>
+                <li>What happened?</li>
+                <li>When did the incident occur?</li>
+                <li>Where did the incident occur?</li>
+                <li>Why did the incident happen?</li>
             </ul>
         </td>
     </tr>
