@@ -26,7 +26,7 @@
             <p>Capture the 5 W's of an incident.</p>
             <ul>
                 <li>Who caused the incident?</li>
-                <ul><li>An organized group of ethical hackers.</li></ul>
+                <ul><li>An organized group of unethical hackers.</li></ul>
                 <li>What happened?</li>
                 <ul><li>A ransomware attack</li></ul>
                 <li>When did the incident occur?</li>
